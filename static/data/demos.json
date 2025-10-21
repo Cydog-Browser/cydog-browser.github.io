@@ -1,0 +1,16 @@
+[
+    { 
+        "title": "Site Map", 
+        "desc": "View a site map listing of all our demos.", 
+        "icon": "fa-solid fa-table-cells",
+        "url": "https://demos.cydogbrowser.com",
+        "github": "https://cydog-browser.github.io/"
+    },
+    { 
+        "title": "SSL Database", 
+        "desc": "View our SSL Database as an interactive web page.", 
+        "icon": "fa-solid fa-certificate",
+        "url": "https://demos.cydogbrowser.com/ssl-database",
+        "github": "https://cydog-browser.github.io/ssl-database"
+    }
+]
