@@ -4,6 +4,7 @@ This repository allows users to demo all our repositories with an uncomplicated 
 ## Site Map
 - [This Site Map Page](https://demos.cydogbrowser.com)
 - [SSL Database](https://demos.cydogbrowser.com/ssl-database)
+- [Boosters Catalog](https://demos.cydogbrowser.com/boosters)
 
 ## Contribute
 Send me a pull request!
